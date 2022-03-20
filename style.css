@@ -1,0 +1,10 @@
+.bk-image {
+    background-image: url("images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .button{
+    position:absolute;
+    bottom: 15%;
+    right:40%;
+}
